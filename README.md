@@ -1,10 +1,10 @@
-# Tax Calculator App
+# WonderTax Calculator
 
-Welcome to the Tax Calculator App, a SvelteKit-based project designed to help users estimate their federal taxes based on various inputs such as income, age, retirement contributions, and tax filing status. This application provides a user-friendly interface to input financial data and instantly see the estimated tax results.
+Welcome to the WonderTax Calculator, a SvelteKit-based project designed to help users estimate their federal taxes based on various inputs such as income, age, retirement contributions, and tax filing status. This application provides a user-friendly interface to input financial data and instantly see the estimated tax results.
 
 ## Project Description
 
-The Tax Calculator App allows users to:
+The WonderTax Calculator allows users to:
 - Enter their gross income.
 - Specify their age.
 - Input contributions to 401(k) and IRA accounts.
@@ -35,7 +35,7 @@ The project was developed using the following approach:
 
 ## Challenges Faced
 
-During the development of the Tax Calculator App, several challenges were encountered:
+During the development of the WonderTax Calculator, several challenges were encountered:
 
 1. **Complex Input Validation:**
    - Ensuring that only valid numerical input is accepted required careful handling of various edge cases, especially for financial inputs.
@@ -45,7 +45,7 @@ During the development of the Tax Calculator App, several challenges were encoun
 
 ## Possible Improvements
 
-While the Tax Calculator App is fully functional, there are several areas for potential improvement:
+While the WonderTax Calculator is fully functional, there are several areas for potential improvement:
 
 1. **Enhanced Input Validation:** Implement more comprehensive validation rules and user feedback mechanisms to guide users in entering valid data.
 
